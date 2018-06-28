@@ -19,7 +19,7 @@ import java.util.Map.Entry;
  * @author shark57
  * @Data 2018/6/27
  */
-public class MyHttpRequest {
+public class HttpRequestUtils {
 
     /**
      * 向指定URL发送GET方法的请求
